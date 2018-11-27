@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{99FACD9D-BD20-431E-98C3-7D36C64A6C79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingWebApi/Program.cs">
+    <Files>
+      <File FileName="ShoppingWebApi/Models/Product.cs" Line="9" Column="9" />
+      <File FileName="ShoppingWebApi/Controllers/ProductController.cs" Line="73" Column="10" />
+      <File FileName="ShoppingWebApi/Models/ProductContext.cs" Line="15" Column="1" />
+      <File FileName="ShoppingWebApi/Startup.cs" Line="31" Column="91" />
+      <File FileName="ShoppingWebApi/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShoppingWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../ShoppingWebApi/Controllers/ProductController.cs" line="52" offsetX="435" offsetY="1020" expression="name" liveUpdate="False" />
+    <Watch file="../../../ShoppingWebApi/Controllers/ProductController.cs" line="52" offsetX="435" offsetY="1020" expression="product.name" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/bin/Debug/netcoreapp2.1/ShoppingWebApi.deps.json
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/bin/Debug/netcoreapp2.1/ShoppingWebApi.runtimeconfig.json
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/bin/Debug/netcoreapp2.1/ShoppingWebApi.runtimeconfig.dev.json
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/bin/Debug/netcoreapp2.1/ShoppingWebApi.dll
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/bin/Debug/netcoreapp2.1/ShoppingWebApi.pdb
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.csprojAssemblyReference.cache
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.csproj.CoreCompileInputs.cache
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.RazorAssemblyInfo.cache
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.RazorAssemblyInfo.cs
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.AssemblyInfoInputs.cache
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.AssemblyInfo.cs
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.RazorTargetAssemblyInfo.cache
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.dll
+/Users/apooravsingh/Documents/WebTools/ShoppingWebApplication/ShoppingApp/ShoppingWebApi/ShoppingWebApi/obj/Debug/netcoreapp2.1/ShoppingWebApi.pdb
